@@ -1,0 +1,21 @@
+# Generated data (recreated by python run_all.py)
+data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Secrets - never commit passwords
+.env
+
+# Personal interview-prep notes (generated locally, not part of the project)
+INTERVIEW_PREP.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
